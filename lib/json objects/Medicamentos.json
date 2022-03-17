@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "623397e7009a8679c9d835b2"
+  },
+  "nombre_generico": "ibuprofeno",
+  "clasificacion": "analgesico",
+  "via_de_administracion": "via oral",
+  "cantidad": "10"
+},{
+  "_id": {
+    "$oid": "623397e7009a8679c9d835b3"
+  },
+  "nombre_generico": "diclofenaco ",
+  "clasificacion": "analgesico y antinflamatorio",
+  "via_de_administracion": "via oral",
+  "cantidad": "20"
+},{
+  "_id": {
+    "$oid": "623397e7009a8679c9d835b4"
+  },
+  "nombre_generico": "morfina",
+  "clasificacion": "analgesico",
+  "via_de_administracion": "sub cutanea, intramuscular",
+  "cantidad": "1"
+},{
+  "_id": {
+    "$oid": "623397e7009a8679c9d835b5"
+  },
+  "nombre_generico": "amoxicilina",
+  "clasificacion": "antibioticos",
+  "via_de_administracion": "via oral",
+  "cantidad": "40"
+}]

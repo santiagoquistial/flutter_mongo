@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "62339272009a8679c9d835ab"
+  },
+  "nombre_servicio": "ortodoncia y ortopedia",
+  "doctor": "mario salas",
+  "consultorio": "torre A consultorio 100",
+  "telefono": "7253645"
+},{
+  "_id": {
+    "$oid": "62339272009a8679c9d835ac"
+  },
+  "nombre_servicio": "periodoncia",
+  "doctor": "alejandra saraza",
+  "consultorio": "torre A consultorio 110",
+  "telefono": "7254582"
+},{
+  "_id": {
+    "$oid": "62339272009a8679c9d835ad"
+  },
+  "nombre_servicio": "cirugia oral maxilofacial",
+  "doctor": "eugenio regalado",
+  "consultorio": "torre b consultorio 400",
+  "telefono": "7258945"
+},{
+  "_id": {
+    "$oid": "62339272009a8679c9d835ae"
+  },
+  "nombre_servicio": "implantologia",
+  "doctor": "santiago cruz",
+  "consultorio": "torre b consultorio 420",
+  "telefono": "7253645"
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "623388f6009a8679c9d83586"
+  },
+  "codigo_medico": "159753",
+  "nombre": "mario",
+  "apellido": "quistial",
+  "genero": "masculino",
+  "edad": "30",
+  "cargo": "odontologo general",
+  "direccion": "avenida 50"
+},{
+  "_id": {
+    "$oid": "623388f6009a8679c9d83587"
+  },
+  "codigo_medico": "258946",
+  "nombre": "carlo",
+  "apellido": "salas",
+  "genero": "masculino",
+  "edad": "36",
+  "cargo": "ortoncista",
+  "direccion": "barrio el centro"
+},{
+  "_id": {
+    "$oid": "623388f6009a8679c9d83588"
+  },
+  "codigo_medico": "741258",
+  "nombre": "alejandra",
+  "apellido": "saraza",
+  "genero": "femenino",
+  "edad": "29",
+  "cargo": "cirujano oral",
+  "direccion": "calle 4 #30-6"
+}]
